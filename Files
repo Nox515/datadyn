@@ -1,0 +1,2 @@
+EXCEL_URL = 'https://adbdatathon.s3.af-south-1.amazonaws.com/Datathon/Vehicle_Data.xlsx'
+PARQUET_URL = 'https://adbdatathon.s3.af-south-1.amazonaws.com/Datathon/part-00590-tid-6661262080813627668-5b71b33c-8263-4f63-9ea0-b9e2e435cab4-130881-1.c000.snappy.parquet'
