@@ -173,7 +173,7 @@ Vehicle Telematics → Data Ingestion → ML Processing → Violation Detection 
 ## 📚 **DOCUMENTATION**
 
 ### **Academic Research**
-- 📄 **[Research Paper](documentation/rt_risk_plus_research_paper.md)**: Complete academic analysis with Introduction, Literature Study, Methods, Results, and Conclusions
+- 📄 **[Research Paper](https://github.com/Nox515/datadyn/blob/main/rt_risk_plus_research_paper.md)**: Complete academic analysis with Introduction, Literature Study, Methods, Results, and Conclusions
 - 📊 **[Technical Implementation](core_analysis/rt_risk_plus_technical_implementation.ipynb)**: Detailed system architecture and deployment strategy
 
 ### **Competition Materials**
