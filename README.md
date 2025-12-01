@@ -177,7 +177,7 @@ Vehicle Telematics → Data Ingestion → ML Processing → Violation Detection 
 - 📊 **[Technical Implementation](core_analysis/rt_risk_plus_technical_implementation.ipynb)**: Detailed system architecture and deployment strategy
 
 ### **Competition Materials**
-- 🛡️ **[Competition Defense]([documentation/rt_risk_plus_competition_defense.md](https://github.com/Nox515/datadyn/blob/main/rt_risk_plus_competition_defense.md))**: Bulletproof responses to anticipated judge challenges
+- 🛡️ **[Competition Defense](https://github.com/Nox515/datadyn/blob/main/rt_risk_plus_competition_defense.md)**: Bulletproof responses to anticipated judge challenges
 - ❓ **[Judge Q&A Responses](documentation/rt_risk_plus_judge_qa_responses.md)**: Comprehensive answers to technical, legal, and business questions
 
 ### **Analysis Notebooks**
