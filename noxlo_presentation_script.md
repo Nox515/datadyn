@@ -110,6 +110,24 @@
 
 ---
 
+# SafeDrive AI - Real Fleet Data Model Training Requirements
+
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine Learning
+scikit-learn>=1.1.0
+joblib>=1.1.0
+
+# AWS S3 Integration
+s3fs>=2022.8.0
+
+# Additional utilities (if needed)
+boto3>=1.24.0
+
 ## **Market Opportunity** (1 minute)
 ### South African Fleet Market:
 
