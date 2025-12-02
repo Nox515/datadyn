@@ -158,11 +158,29 @@
 
 ### **2. Evidence & Data (4 min) - NOXOLO**
 **Role:** Data Analysis & Evidence Presentation
-- **Research Foundation:** 1.8 million data points from 31 vehicles over 6 months
-- **Accident Patterns:** Show correlation between speed violations and accident risk
-- **Fatigue Evidence:** Performance degrades exponentially after 8 hours
-- **AI Performance:** 85% accuracy in predicting high-risk situations
-- **Proof of Impact:** 60% fewer incidents in vehicles with our system
+
+**Charts to Present (in order):**
+
+1. **Dataset Overview Chart** (30 seconds)
+   - Bar chart showing: 1.8M data points, 31 vehicles, 6 months
+   - *"This is the foundation of our evidence - real data from real vehicles"*
+
+2. **Speed vs Accident Risk Correlation** (60 seconds)
+   - Scatter plot with trend line showing speed violations vs accident probability
+   - *"Here's the clear correlation - every 10km/h over the limit increases accident risk by 23%"*
+
+3. **Driver Fatigue Performance Curve** (60 seconds)
+   - Line graph showing performance degradation over driving hours
+   - *"Watch how driver performance drops exponentially after 8 hours - this is when accidents spike"*
+
+4. **AI Performance Metrics** (60 seconds)
+   - Pie chart or gauge showing 85% accuracy in risk prediction
+   - Comparison bar chart: Traditional systems vs SafeDrive AI
+   - *"Our AI doesn't just detect problems - it predicts them with 85% accuracy"*
+
+5. **Before vs After Impact** (60 seconds)
+   - Side-by-side bar chart: Incidents before/after SafeDrive AI implementation
+   - *"The proof is here - 60% fewer incidents in vehicles using our system"*
 
 **Key Evidence Statement:**
 *"These aren't just numbers - they represent real accidents we can prevent. Let me show you the data that proves why this works."*
